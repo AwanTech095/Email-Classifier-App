@@ -7,3 +7,5 @@ spacy
 bs4
 nltk
 PyMuPDF
+python-docx
+langdetect
