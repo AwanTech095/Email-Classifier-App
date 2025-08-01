@@ -6,3 +6,4 @@ joblib
 spacy
 bs4
 nltk
+PyMuPDF
